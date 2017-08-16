@@ -1,5 +1,5 @@
 Knapsack means bag. We have a knapsack which can hold C kg objects at maximum. We have n objects. Weight[i] contains the weight of 
 the i-th object. Profit[i] contains the amount of profit for i-th object which will be obtained by selling it.
-The total weight of all the objects might be greater than C. So we need to determine the objects that should be placed in that bag in such a way that 
-toltal profit obtained by selling them will be maximum. This is known as Fractional Knapsack problem.
+The total weight of all the objects might be greater than C kg. So we need to determine those objects which should be placed in that bag in such a way that 
+toltal profit obtained by selling them, will be maximum. This is known as Fractional Knapsack problem.
 This is called Fractional because we can put fraction of an entire object in our knapsack. It is not necessary that we have to put the entire object.
